@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer-jk",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkaunitz/devcamp-js-footer-jk.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Your name <your@email.com> (http://www.yourhomepage.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkaunitz/devcamp-js-footer-jk/issues"
+  },
+  "homepage": "https://github.com/jkaunitz/devcamp-js-footer-jk#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
